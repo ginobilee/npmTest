@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ginobilee/npmTest/issues"
   },
-  "homepage": "https://github.com/ginobilee/npmTest#readme"
+  "homepage": "https://github.com/ginobilee/npmTest#readme",
+  "dependencies": {
+    "react": "^16.4.1"
+  }
 }
